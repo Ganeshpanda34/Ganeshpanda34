@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ganeshpanda34" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshpanda34?logo=twitter&style=for-the-badge" alt="ganeshpanda34" /></a> </p>
 
-- 🌱 I’m currently learning **Python(Django,streamlit,pandas,matplotlib),Web development(html5,css3,javascript,react js),Oracle.**
+- 💻 I’m currently learning **Python(Django,streamlit,pandas,matplotlib),Web development(html5,css3,javascript,Bootstrap5,react js),My SQL.**
 
 - 👨‍💻 Few of my projects are available at my personal portfolio [https://ganesh-panda.netlify.app](https://ganesh-panda.netlify.app)
 
